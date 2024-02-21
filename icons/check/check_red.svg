@@ -1,0 +1,18 @@
+<svg width="21.000000" height="20.000000" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip8_45">
+			<rect id="check_red 1" width="21.000000" height="20.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<pattern id="pattern_8_460" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image8_46_0" transform="matrix(0.047619,0,0,0.05,0,0)"/>
+		</pattern>
+		<image id="image8_46_0" width="21.000000" height="20.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAUCAYAAABiS3YzAAAABHNCSVQICAgIfAhkiAAAAzZJREFUOI2NlG1olXUYxn/X/zxnG01WBo0kqdRMUoJQkOj1gGsoNRxbzzmgaPZlSPShxF6O2V4aVn4QkfCDEKHMs+PO09raSWJEdDKwL4ngIIJFRSK2is5YzJ22nefuw2ru7Jmw++v1v3/39b+4ucUSZfv21TA52YhzzxCGTwMPAHGgDPyEdAGzYeLxAr294wJb2K8IMJlsIAy7kB4DruLcRcLwe5wrYnY70oOE4ePAWqR+SqUXNTT09y2hlkq9QhgeB0aBbmZm8hocHI8M3r27jtnZVsLQAb04t5OxsY9VKMxWQM33DwDHkM4Qix1UNvvnUtFEBqRSewnDMzj3vvr60vNQ8/3twOdIZ8nl9i7O6JbAlpbVxGIXgDXALPCCgqDXWVPTbUAHMIrZgeUCAfC8NLAG6WWkAtBuvn+Xo6amAXgU6FYQ/LFcniWTDZjtRzqvXO4kcBTYgNTskHYC14Dzywbu2VOL2RFgArM0AFNTFzG7DDznMNuGdElB8Nd8U0vLamttXW9tbfElqaXSS8BWpGMKghEA5fM3cO47zBIOuIe5FbpZnrcN575ifLwr4jKVWgccxuwypdKJRfIvQI37/22FFI8PII1gljbff34e6PtVmJ0A6pAOLV56zEIAB/wGrFuoKZOZoFx+FbgOnDLf3zgnKInZs0gfAV9EYpHuA2YcUgGzLdbcfEeF3t//A/AGcCdmx833H8asHRjDrF1BUK4wuWNHNWabkb51SEPAvcTjDZHJmzZlcK4HqREYAtYjHVIQXIu8XbFiM7AFs88cnjeM2RXgrYjbzs6Q6emDwI/A/UiDmJ1dzLNEwsOsE7hOLPaJUyYzQSzWBTxCVdWRSEwDA78jvQb8inRUQTAdcVlf/yZSI869p3Pnrt48KMnkO5i9jfQB1dVp9fRMVjhZtWqjstkrFQ7b2uIUi2mgC+mUcrn9sPBKJRIe9fWHMesALgEd1NZ+qdOnS5HvzsGe/M9EAukkU1OvK5+/UQFd4LgVs27gIWAE577GbBSzIlId0lrC8AlgK/Azzr2rvr4PKyKL5APYrl0rKZebMNuO2VPA3cA/QBVQBL4BhvG8T5XNji3u/xeXyUfqG3wa8wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="check_red 1" width="21.000000" height="20.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip8_45)">
+		<rect id="Layer 31 copy 7" width="21.000000" height="20.000000" fill="url(#pattern_8_460)" fill-opacity="1.000000"/>
+	</g>
+</svg>
